@@ -1,0 +1,731 @@
+{
+  "title": "AI MATH — 45 savollik NAMUNA TEST",
+  "description": "Bu namuna savollar. Haqiqiy imtihon uchun matnlar va javob kalitlarini o‘zingiz almashtiring.",
+  "duration_minutes": 120,
+  "grade_thresholds": {
+    "A+": 70,
+    "A": 65,
+    "B+": 60,
+    "B": 55,
+    "C+": 50,
+    "C": 46
+  },
+  "questions": [
+    {
+      "number": 1,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 4 + 3 = ?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "6",
+        "D": "9"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 2,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 5 + 4 = ?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "8",
+        "D": "11"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 3,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 6 + 5 = ?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "10",
+        "D": "13"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 4,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 7 + 6 = ?",
+      "options": {
+        "A": "13",
+        "B": "14",
+        "C": "12",
+        "D": "15"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 5,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 8 + 7 = ?",
+      "options": {
+        "A": "15",
+        "B": "16",
+        "C": "14",
+        "D": "17"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 6,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 9 + 8 = ?",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "16",
+        "D": "19"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 7,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 10 + 2 = ?",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "11",
+        "D": "14"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 8,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 11 + 3 = ?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "13",
+        "D": "16"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 9,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 12 + 4 = ?",
+      "options": {
+        "A": "16",
+        "B": "17",
+        "C": "15",
+        "D": "18"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 10,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 13 + 5 = ?",
+      "options": {
+        "A": "18",
+        "B": "19",
+        "C": "17",
+        "D": "20"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 11,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 14 + 6 = ?",
+      "options": {
+        "A": "20",
+        "B": "21",
+        "C": "19",
+        "D": "22"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 12,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 15 + 7 = ?",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "21",
+        "D": "24"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 13,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 16 + 8 = ?",
+      "options": {
+        "A": "24",
+        "B": "25",
+        "C": "23",
+        "D": "26"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 14,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 17 + 2 = ?",
+      "options": {
+        "A": "19",
+        "B": "20",
+        "C": "18",
+        "D": "21"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 15,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 18 + 3 = ?",
+      "options": {
+        "A": "21",
+        "B": "22",
+        "C": "20",
+        "D": "23"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 16,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 19 + 4 = ?",
+      "options": {
+        "A": "23",
+        "B": "24",
+        "C": "22",
+        "D": "25"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 17,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 20 + 5 = ?",
+      "options": {
+        "A": "25",
+        "B": "26",
+        "C": "24",
+        "D": "27"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 18,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 21 + 6 = ?",
+      "options": {
+        "A": "27",
+        "B": "28",
+        "C": "26",
+        "D": "29"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 19,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 22 + 7 = ?",
+      "options": {
+        "A": "29",
+        "B": "30",
+        "C": "28",
+        "D": "31"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 20,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 23 + 8 = ?",
+      "options": {
+        "A": "31",
+        "B": "32",
+        "C": "30",
+        "D": "33"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 21,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 24 + 2 = ?",
+      "options": {
+        "A": "26",
+        "B": "27",
+        "C": "25",
+        "D": "28"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 22,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 25 + 3 = ?",
+      "options": {
+        "A": "28",
+        "B": "29",
+        "C": "27",
+        "D": "30"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 23,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 26 + 4 = ?",
+      "options": {
+        "A": "30",
+        "B": "31",
+        "C": "29",
+        "D": "32"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 24,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 27 + 5 = ?",
+      "options": {
+        "A": "32",
+        "B": "33",
+        "C": "31",
+        "D": "34"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 25,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 28 + 6 = ?",
+      "options": {
+        "A": "34",
+        "B": "35",
+        "C": "33",
+        "D": "36"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 26,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 29 + 7 = ?",
+      "options": {
+        "A": "36",
+        "B": "37",
+        "C": "35",
+        "D": "38"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 27,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 30 + 8 = ?",
+      "options": {
+        "A": "38",
+        "B": "39",
+        "C": "37",
+        "D": "40"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 28,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 31 + 2 = ?",
+      "options": {
+        "A": "33",
+        "B": "34",
+        "C": "32",
+        "D": "35"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 29,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 32 + 3 = ?",
+      "options": {
+        "A": "35",
+        "B": "36",
+        "C": "34",
+        "D": "37"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 30,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 33 + 4 = ?",
+      "options": {
+        "A": "37",
+        "B": "38",
+        "C": "36",
+        "D": "39"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 31,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 34 + 5 = ?",
+      "options": {
+        "A": "39",
+        "B": "40",
+        "C": "38",
+        "D": "41"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 32,
+      "type": "mcq4",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 35 + 6 = ?",
+      "options": {
+        "A": "41",
+        "B": "42",
+        "C": "40",
+        "D": "43"
+      },
+      "correct": "A",
+      "weight": 1
+    },
+    {
+      "number": 33,
+      "type": "mcq6",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 66 - 38 = ?",
+      "options": {
+        "A": "28",
+        "B": "29",
+        "C": "27",
+        "D": "30",
+        "E": "26",
+        "F": "31"
+      },
+      "correct": "A",
+      "weight": 2
+    },
+    {
+      "number": 34,
+      "type": "mcq6",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 68 - 39 = ?",
+      "options": {
+        "A": "29",
+        "B": "30",
+        "C": "28",
+        "D": "31",
+        "E": "27",
+        "F": "32"
+      },
+      "correct": "A",
+      "weight": 2
+    },
+    {
+      "number": 35,
+      "type": "mcq6",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA: 70 - 40 = ?",
+      "options": {
+        "A": "30",
+        "B": "31",
+        "C": "29",
+        "D": "32",
+        "E": "28",
+        "F": "33"
+      },
+      "correct": "A",
+      "weight": 2
+    },
+    {
+      "number": 36,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 36: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "40 × 2 ni hisoblang",
+          "answer": "80",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "92 ÷ 2 ni hisoblang",
+          "answer": "46",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 37,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 37: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "41 × 2 ni hisoblang",
+          "answer": "82",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "94 ÷ 2 ni hisoblang",
+          "answer": "47",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 38,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 38: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "42 × 2 ni hisoblang",
+          "answer": "84",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "96 ÷ 2 ni hisoblang",
+          "answer": "48",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 39,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 39: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "43 × 2 ni hisoblang",
+          "answer": "86",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "98 ÷ 2 ni hisoblang",
+          "answer": "49",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 40,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 40: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "44 × 2 ni hisoblang",
+          "answer": "88",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "100 ÷ 2 ni hisoblang",
+          "answer": "50",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 41,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 41: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "45 × 2 ni hisoblang",
+          "answer": "90",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "102 ÷ 2 ni hisoblang",
+          "answer": "51",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 42,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 42: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "46 × 2 ni hisoblang",
+          "answer": "92",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "104 ÷ 2 ni hisoblang",
+          "answer": "52",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 43,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 43: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "47 × 2 ni hisoblang",
+          "answer": "94",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "106 ÷ 2 ni hisoblang",
+          "answer": "53",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 44,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 44: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "48 × 2 ni hisoblang",
+          "answer": "96",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "108 ÷ 2 ni hisoblang",
+          "answer": "54",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    },
+    {
+      "number": 45,
+      "type": "written2",
+      "topic": "Arifmetika",
+      "prompt": "NAMUNA 45: Quyidagi amallarni bajaring.",
+      "parts": {
+        "A": {
+          "prompt": "49 × 2 ni hisoblang",
+          "answer": "98",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 4
+        },
+        "B": {
+          "prompt": "110 ÷ 2 ni hisoblang",
+          "answer": "55",
+          "answer_type": "numeric",
+          "tolerance": 0,
+          "weight": 5
+        }
+      }
+    }
+  ]
+}
